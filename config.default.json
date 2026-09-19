@@ -1,0 +1,5 @@
+{
+  "server": { "host": "127.0.0.1", "port": 8070, "openBrowser": true },
+  "targetDir": "",
+  "ocr": { "scale": 2 }
+}
